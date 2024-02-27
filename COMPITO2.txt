@@ -1,0 +1,48 @@
+1. 1.1.1.1/8:                              CLASSE A
+   - IP Network: 1.0.0.0
+   - IP Gateway convenzionale: 1.0.0.1
+   - IP Broadcast: 1.255.255.255
+   - Ottetti per gli host: 3 (1 ottetto)
+   - Ottetti per la network: 1 (8 ottetti)
+
+2. 128.1.6.5/12:                             CLASSE B 
+   - IP Network: 128.0.0.0
+   - IP Gateway convenzionale: 128.1.0.1
+   - IP Broadcast: 128.15.255.255
+   - Ottetti per gli host: 2 (16 bit)
+   - Ottetti per la network: 2 (12 bit)
+
+3. 200.1.2.3/24:                             CLASSE C 
+   - IP Network: 200.1.2.0
+   - IP Gateway convenzionale: 200.1.2.1
+   - IP Broadcast: 200.1.2.255
+   - Ottetti per gli host: 1 (8 bit)
+   - Ottetti per la network: 3 (24 bit)
+
+4. 192.192.1.1/22:                          CLASSE C 
+   - IP Network: 192.192.0.0
+   - IP Gateway convenzionale: 192.192.0.1
+   - IP Broadcast: 192.192.3.255
+   - Ottetti per gli host: 2 (12 bit)
+   - Ottetti per la network: 2 (22 bit)
+
+5. 126.5.4.3/9:                             CLASSE A 
+   - IP Network: 126.0.0.0
+   - IP Gateway convenzionale: 126.0.0.1
+   - IP Broadcast: 126.127.255.255
+   - Ottetti per gli host: 3 (24 bit)
+   - Ottetti per la network: 1 (8 bit)
+
+6. 200.1.9.8/24:                             CLASSE C
+   - IP Network: 200.1.9.0
+   - IP Gateway convenzionale: 200.1.9.1
+   - IP Broadcast: 200.1.9.255
+   - Ottetti per gli host: 1 (8 bit)
+   - Ottetti per la network: 3 (24 bit)
+
+7. 172.16.0.4/16:                            CLASSE B
+   - IP Network: 172.16.0.0
+   - IP Gateway convenzionale: 172.16.0.1
+   - IP Broadcast: 172.16.255.255
+   - Ottetti per gli host: 2 (16 bit)
+   - Ottetti per la network: 2 (16 bit)
